@@ -72,7 +72,5 @@
 - 设置 exclude 可以过滤某个位置。
 - 遇到问题可以关注公众号留言。
 
-微信名称：IT小圈儿，微信号：ToFeelings。
-
-![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
+![公众号](https://xinliangcoder.github.io/image/qr.jpg)
 
